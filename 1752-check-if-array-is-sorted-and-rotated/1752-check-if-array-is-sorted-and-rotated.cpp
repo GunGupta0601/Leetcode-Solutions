@@ -7,11 +7,6 @@ public:
                 count+=1;
             }
         }
-        if(count==0 || count==1){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return count<=1;
     }
 };
