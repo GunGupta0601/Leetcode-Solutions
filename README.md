@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GunGupta0601/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/GunGupta0601/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
@@ -55,9 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GunGupta0601/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/GunGupta0601/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/GunGupta0601/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GunGupta0601/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
